@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.class
+out/artifacts/keep_war_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar
+*.jar
